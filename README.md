@@ -10,3 +10,5 @@ Lab work for the Agentic AI Engineering track.
 ## Licence
 
 MIT, see LICENSE.
+
+Lab work for Sessions 01 and 02 of the Agentic AI Engineering track.
